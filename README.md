@@ -46,5 +46,5 @@ Our advanced network tools are used to verify internet performance, improve netw
 - UPnP services and device browser
 
 <h2>iOS App:</h2>
-**Download from App Store:** https://apps.apple.com/us/app/network-analyzer-wifi-scanner/id6475303256
+<b>Download from App Store:</b> https://apps.apple.com/us/app/network-analyzer-wifi-scanner/id6475303256
 
