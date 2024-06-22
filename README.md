@@ -1,4 +1,8 @@
-Network Information:
+**Download from App Store:** https://apps.apple.com/us/app/network-analyzer-wifi-scanner/id6475303256
+
+<h1>Our Features:</h1>
+
+<h2>Network Information:</h2>
 
 - Current connection with default gateway, HTTP Proxy, external IP, DNS server(s), ISP name
 - Provides wifi information & analysis with network details (SSID, BSSID, vendor, IP address, IPv6 address, subnet mask, broadcast, wifi security type)
@@ -11,7 +15,7 @@ Network Information:
 - Network routing tables
 
 
-Device Discovery (LAN Scanner):
+<h2>Device Discovery (LAN Scanner):</h2>
 
 - Wifi Analyzer and Scanner to detect all online devices connected to the network
 - Provides IP addresses of all detected devices
@@ -22,7 +26,7 @@ Device Discovery (LAN Scanner):
 - Discover online devices in home and office wifi network
 
 
-Network Tools:
+<h2>Network Tools:</h2>
 
 Our advanced network tools are used to verify internet performance, improve network security, troubleshoot and monitor network and more -
 
@@ -37,7 +41,7 @@ Our advanced network tools are used to verify internet performance, improve netw
 - MAC Address Lookup (Including MAC address, OUI and Vendor name)
 
 
-Local Service Discovery:
+<h2>Local Service Discovery:</h2>
 
 - Bonjour services browser
 - UPnP services and device browser
