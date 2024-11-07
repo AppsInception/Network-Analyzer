@@ -49,3 +49,7 @@ Our advanced network tools are used to verify internet performance, improve netw
 <h2>iOS App:</h2>
 <b>Download from App Store:</b> https://apps.apple.com/us/app/network-analyzer-wifi-scanner/id6475303256
 
+<h2>Android App:</h2>
+<b>Download from Play Store:</b> https://play.google.com/store/apps/details?id=com.appsinception.networkinfo
+
+
