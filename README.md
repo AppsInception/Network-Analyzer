@@ -39,7 +39,7 @@ Our advanced network tools are used to verify internet performance, improve netw
 - DNS Lookup (A, AAAA, CAA, MX,NS, TXT more)
 - MAC Address Lookup (Including MAC address, OUI and Vendor name)
 
-  ![Network Analyzer Tools](network-analyzer-tools)
+  ![Network Analyzer Tools](network-analyzer-tools.png)
 
 
 <h2>Local Service Discovery:</h2>
