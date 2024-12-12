@@ -14,7 +14,6 @@
 - Real time internet speed meter
 - Network routing tables
 
-
 <h2>Device Discovery (LAN Scanner):</h2>
 
 - Wifi Analyzer and Scanner to detect all online devices connected to the network
@@ -39,6 +38,8 @@ Our advanced network tools are used to verify internet performance, improve netw
 - Router vulnerability
 - DNS Lookup (A, AAAA, CAA, MX,NS, TXT more)
 - MAC Address Lookup (Including MAC address, OUI and Vendor name)
+
+  ![Network Analyzer Tools](network-analyzer-tools)
 
 
 <h2>Local Service Discovery:</h2>
